@@ -2,19 +2,19 @@
   "files": {
     "main.css": "/hakanretail/static/css/main.a10e88f7.chunk.css",
     "main.js": "/hakanretail/static/js/main.0329e088.chunk.js",
-    "runtime-main.js": "/hakanretail/static/js/runtime-main.1ba1f05c.js",
+    "runtime-main.js": "/hakanretail/static/js/runtime-main.85c91bdf.js",
     "static/css/2.5d6bb62c.chunk.css": "/hakanretail/static/css/2.5d6bb62c.chunk.css",
     "static/js/2.9a66cd38.chunk.js": "/hakanretail/static/js/2.9a66cd38.chunk.js",
     "static/js/3.196b831e.chunk.js": "/hakanretail/static/js/3.196b831e.chunk.js",
-    "static/js/4.6fa9b992.chunk.js": "/hakanretail/static/js/4.6fa9b992.chunk.js",
+    "static/js/4.7cb2c36b.chunk.js": "/hakanretail/static/js/4.7cb2c36b.chunk.js",
     "index.html": "/hakanretail/index.html",
-    "precache-manifest.687b4fee3d97abb711aed7979f50ad22.js": "/hakanretail/precache-manifest.687b4fee3d97abb711aed7979f50ad22.js",
+    "precache-manifest.b5e4790f4670a5721b3c8cc7d9f83f2c.js": "/hakanretail/precache-manifest.b5e4790f4670a5721b3c8cc7d9f83f2c.js",
     "service-worker.js": "/hakanretail/service-worker.js",
     "static/js/2.9a66cd38.chunk.js.LICENSE.txt": "/hakanretail/static/js/2.9a66cd38.chunk.js.LICENSE.txt",
     "static/media/index.css": "/hakanretail/static/media/muli-latin-900italic.fb9b3ba4.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ba1f05c.js",
+    "static/js/runtime-main.85c91bdf.js",
     "static/css/2.5d6bb62c.chunk.css",
     "static/js/2.9a66cd38.chunk.js",
     "static/css/main.a10e88f7.chunk.css",
