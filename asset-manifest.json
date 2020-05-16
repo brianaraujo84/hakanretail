@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hakanretail/static/css/main.a10e88f7.chunk.css",
-    "main.js": "/hakanretail/static/js/main.a7b5bf0c.chunk.js",
-    "runtime-main.js": "/hakanretail/static/js/runtime-main.85c91bdf.js",
+    "main.css": "/hakanretail/static/css/main.5efea671.chunk.css",
+    "main.js": "/hakanretail/static/js/main.e455b98d.chunk.js",
+    "runtime-main.js": "/hakanretail/static/js/runtime-main.bfb7b552.js",
     "static/css/2.5d6bb62c.chunk.css": "/hakanretail/static/css/2.5d6bb62c.chunk.css",
     "static/js/2.9a66cd38.chunk.js": "/hakanretail/static/js/2.9a66cd38.chunk.js",
     "static/js/3.196b831e.chunk.js": "/hakanretail/static/js/3.196b831e.chunk.js",
-    "static/js/4.7cb2c36b.chunk.js": "/hakanretail/static/js/4.7cb2c36b.chunk.js",
+    "static/js/4.daf0400a.chunk.js": "/hakanretail/static/js/4.daf0400a.chunk.js",
     "index.html": "/hakanretail/index.html",
-    "precache-manifest.a425cb4b4b05ffbb1c4e2335729dc169.js": "/hakanretail/precache-manifest.a425cb4b4b05ffbb1c4e2335729dc169.js",
+    "precache-manifest.b50de16bb441dbb6e8fa1e7bf6e75a96.js": "/hakanretail/precache-manifest.b50de16bb441dbb6e8fa1e7bf6e75a96.js",
     "service-worker.js": "/hakanretail/service-worker.js",
     "static/js/2.9a66cd38.chunk.js.LICENSE.txt": "/hakanretail/static/js/2.9a66cd38.chunk.js.LICENSE.txt",
     "static/media/index.css": "/hakanretail/static/media/muli-latin-900italic.fb9b3ba4.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.85c91bdf.js",
+    "static/js/runtime-main.bfb7b552.js",
     "static/css/2.5d6bb62c.chunk.css",
     "static/js/2.9a66cd38.chunk.js",
-    "static/css/main.a10e88f7.chunk.css",
-    "static/js/main.a7b5bf0c.chunk.js"
+    "static/css/main.5efea671.chunk.css",
+    "static/js/main.e455b98d.chunk.js"
   ]
 }
